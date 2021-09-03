@@ -1,3 +1,8 @@
+# AMLD Africa Workshop, September 04, 2021
+
+# Organizers
+Khalil Mrini, Imane Khaouja, Ihsane gryech, Anass Sedrati and [Abdelhak Mahmoudi](https://github.com/AbdelMahm)
+
 # Moroccan Darija Wikipedia: Basics of Natural Language Processing for a Low-Resource Language
 
 ## Description
@@ -9,3 +14,8 @@ The participants will first learn statistical tools to analyze language in the t
 ### Lab1: Wikipedia Darija Cleaning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RFHap6xmhZi8YQ0niZNs_KPR4Zd0lJDo#scrollTo=AVlJA7HawHs5)
 ### Lab2: Wikipedia Darija Topic Detection [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19VDlOzN-DBi2AnwcBbtLeP-D-9LgfhI1#scrollTo=ipadW1eEbgRd)
 ### Lab3: NLP Tasks and Tools [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VkpyvrKWs87uA7RPRLur7E6wxsVaQX2Y#scrollTo=xlHdNU6oS_18)
+
+## Slides
+[link of the presentation willl be available soon !]
+
+
