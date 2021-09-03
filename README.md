@@ -1,9 +1,10 @@
 # AMLD Africa Workshop, September 04, 2021
 
-# Organizers
+## Organizers
 [Khalil Mrini](https://khalilmrini.github.io/), Imane Khaouja, Ihsane Gryech, Anass Sedrati and [Abdelhak Mahmoudi](https://github.com/AbdelMahm)
 
-# Moroccan Darija Wikipedia: Basics of Natural Language Processing for a Low-Resource Language
+## Title
+### Moroccan Darija Wikipedia: Basics of Natural Language Processing for a Low-Resource Language
 
 ## Description
 NLP is a field that is in high demand, and where research progresses actively and quickly. Whereas language technology for languages like English and French is highly developed, low-resource languages (like most African indigenous languages) have been left behind and marginalized. There are many opportunities to create new tools for languages with few resources. In this tutorial, we take the example of Moroccan Darija, the national vernacular in Morocco. Our use case dataset will be the Moroccan Darija Wikipedia.
