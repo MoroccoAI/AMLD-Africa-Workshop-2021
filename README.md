@@ -1,7 +1,7 @@
 # AMLD Africa Workshop, September 04, 2021
 
 # Organizers
-Khalil Mrini, Imane Khaouja, Ihsane gryech, Anass Sedrati and [Abdelhak Mahmoudi](https://github.com/AbdelMahm)
+[Khalil Mrini](https://khalilmrini.github.io/), Imane Khaouja, Ihsane Gryech, Anass Sedrati and [Abdelhak Mahmoudi](https://github.com/AbdelMahm)
 
 # Moroccan Darija Wikipedia: Basics of Natural Language Processing for a Low-Resource Language
 
