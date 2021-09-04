@@ -16,20 +16,14 @@ The participants will first learn statistical tools to analyze language in the t
 * 3:10-3:40, 		Anass Sedrati: Darija Wikipedia
 * 3:40-3:50, 		Explore the Moroccan Darija Wikipedia
 * 3:50-4:10, 		Ihsane Gryech: Intro to NLP
-* 4:10-4:40, 		Imane Khaouja: Lab1: Darija cleaning
+* 4:10-4:40, 		Imane Khaouja: Lab1: Wikipedia Darija Cleaning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RFHap6xmhZi8YQ0niZNs_KPR4Zd0lJDo)
 * 4:40-5:00, 		20 min Break
-* 5:00-5:30,  	Khalil Mrini: Lab2: Topic detection 
-* 5:30-6:00, 		Abdelhak Mahmoudi: Lab3: Tasks and tools
+* 5:00-5:30,  	Khalil Mrini: Lab2: Wikipedia Darija Topic Detection [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19VDlOzN-DBi2AnwcBbtLeP-D-9LgfhI1)
+* 5:30-6:00, 		Abdelhak Mahmoudi: Lab3: NLP Tasks and Tools [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VkpyvrKWs87uA7RPRLur7E6wxsVaQX2Y)
 * 6:00-6:20, 		20 min Break
 * 6:20:8:20, 		Explore on your own in breakout rooms
 * 8:20-8:50, 		Discussion of your results
 * 8:50-9:00, 		Conclusion
-
-
-## Labs
-#### Lab1: Wikipedia Darija Cleaning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RFHap6xmhZi8YQ0niZNs_KPR4Zd0lJDo)
-#### Lab2: Wikipedia Darija Topic Detection [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19VDlOzN-DBi2AnwcBbtLeP-D-9LgfhI1)
-#### Lab3: NLP Tasks and Tools [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VkpyvrKWs87uA7RPRLur7E6wxsVaQX2Y)
 
 ## Slides
 [link of the presentation willl be available soon !]
