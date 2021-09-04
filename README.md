@@ -27,9 +27,9 @@ The participants will first learn statistical tools to analyze language in the t
 
 
 ## Labs
-### Lab1: Wikipedia Darija Cleaning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RFHap6xmhZi8YQ0niZNs_KPR4Zd0lJDo)
-### Lab2: Wikipedia Darija Topic Detection [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19VDlOzN-DBi2AnwcBbtLeP-D-9LgfhI1)
-### Lab3: NLP Tasks and Tools [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VkpyvrKWs87uA7RPRLur7E6wxsVaQX2Y)
+#### Lab1: Wikipedia Darija Cleaning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RFHap6xmhZi8YQ0niZNs_KPR4Zd0lJDo)
+#### Lab2: Wikipedia Darija Topic Detection [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19VDlOzN-DBi2AnwcBbtLeP-D-9LgfhI1)
+#### Lab3: NLP Tasks and Tools [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VkpyvrKWs87uA7RPRLur7E6wxsVaQX2Y)
 
 ## Slides
 [link of the presentation willl be available soon !]
