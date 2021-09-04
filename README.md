@@ -1,4 +1,4 @@
-# AMLD Africa Workshop, September 04, 2021
+# [AMLD Africa Workshop, September 04, 2021](https://appliedmldays.org/events/amld-africa-2021/workshops/moroccan-darija-wikipedia-basics-of-natural-language-processing-for-a-low-resource-language)
 
 ## Organizers
 [Khalil Mrini](https://khalilmrini.github.io/), [Imane Khaouja](https://github.com/imanekhaouja), [Ihsane Gryech](https://github.com/ihsanegr), [Anass Sedrati](https://github.com/Bintess-Anass) and [Abdelhak Mahmoudi](https://github.com/AbdelMahm)
