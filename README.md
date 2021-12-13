@@ -26,6 +26,6 @@ The participants will first learn statistical tools to analyze language in the t
 * 8:50-9:00, 		Conclusion
 
 ## Slides
-[![click here] (https://github.com/MoroccoAI/AMLD/blob/main/AMLD-Presentation.pdf)]
+[click here] (https://github.com/MoroccoAI/AMLD/blob/main/AMLD-Presentation.pdf)
 
 
